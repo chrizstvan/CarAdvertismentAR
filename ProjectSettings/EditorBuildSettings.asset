@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/1. MainProject/Scenes/Interactive AR Mat Test.unity
+    guid: 9d2306ae23efa4706b78786be26fcc40
   m_configObjects: {}
